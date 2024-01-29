@@ -1,0 +1,18 @@
+<svg width="512" height="512" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m17.907 12.293a9.0237 9.049 0 0 1 4.2761 11.973 9.0237 9.049 0 0 1-11.885 4.4367 9.0237 9.049 0 0 1-4.5718-11.862 9.0237 9.049 0 0 1 11.771-4.7318" stroke-width="1.9545" style="paint-order:stroke fill markers"/>
+  <path d="m11.273 5.7668a6.7711 6.7746 0 0 1 5.7359-3.5959 6.7711 6.7746 0 0 1 5.9817 3.1699" stroke-width="1.4649" style="paint-order:stroke fill markers"/>
+  <path d="m23.053 5.3471a6.7711 6.7746 0 0 1 5.1525 3.75 6.7711 6.7746 0 0 1-0.24084 6.3703" stroke-width="1.4649" style="paint-order:stroke fill markers"/>
+ </g>
+ <circle cx="11.324" cy="5.7668" r=".050739" stroke="#000" stroke-width=".0625"/>
+ <circle cx="23.418" cy="5.918" r=".050739" stroke="#000" stroke-width=".0625"/>
+ <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke="#000" stroke-width="1.5">
+   <path d="m11.273 5.7668 9.4771-0.016831" style="paint-order:stroke fill markers"/>
+   <path d="m27.965 15.467-7.2151-9.7174" style="paint-order:stroke fill markers"/>
+   <path d="m20.741 14.759 0.008619-9.0086" style="paint-order:stroke fill markers"/>
+  </g>
+  <path d="m14.001 14.925v5.5" stroke="#339733" stroke-width="2" style="paint-order:stroke fill markers"/>
+  <path d="m10.001 20.425h4" stroke="#339a33" stroke-width="2" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>
